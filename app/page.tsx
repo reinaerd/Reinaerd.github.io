@@ -133,7 +133,7 @@ export default function Home() {
                 <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-lg overflow-hidden shadow-xl bg-gradient-to-br from-purple-600 to-fuchsia-500 p-1">
                   <div className="absolute inset-0 bg-white dark:bg-gray-900 m-0.5 rounded-md overflow-hidden">
                     <Image
-                      src="/images/reinaerd-vandewalle.jpg"
+                      src="/assets/reinaerd-vandewalle.jpg"
                       alt="Reinaerd Vandewalle"
                       fill
                       className="object-cover"
